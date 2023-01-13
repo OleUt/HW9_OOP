@@ -30,9 +30,3 @@ print(mazda.move_forvard())
 print(mazda.move_back())
 print(mazda.turn_left())
 print(mazda.turn_right())
-
-
-Audi = Car('Audi', 'black', 2.5)
-
-
-
